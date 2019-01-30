@@ -1,0 +1,19 @@
+{
+  "name": "soft-eggplant-dark",
+  "displayName": "Soft Eggplant Dark",
+  "description": "a dark soft theme based on vscode 'quiet light'.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Soft Eggplant Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/soft-eggplant-dark-color-theme.json"
+    }]
+  }
+}

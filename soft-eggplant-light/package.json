@@ -1,0 +1,19 @@
+{
+  "name": "soft-eggplant-light",
+  "displayName": "Soft Eggplant Light",
+  "description": "A soft 🍆 colored vscode theme, originally based on the default 'Quiet Light'. Light version.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Soft Eggplant Light",
+      "uiTheme": "vs",
+      "path": "./themes/soft-eggplant-light-color-theme.json"
+    }]
+  }
+}
