@@ -508,6 +508,7 @@
     "badge.background": "#705697AA",
     "button.background": "#705697",
     "dropdown.background": "#F5F5F5",
+    "dropdown.foreground": "#5E5E5E",
     "dropdown.border": "#9F8EB9",
     "editor.background": "#F5F5F5",
     "editor.findMatchBackground": "#BF9CAC",
