@@ -7,10 +7,11 @@ This is the dark version of the _Soft Eggplant_ color theme.
 ## Previews
 
 HTML
-![](../images/code-dark.png)
+HTML
+![html preview dark](../soft-eggplant-dark/images/code-dark.png)
 
 CSS
-![](../images/code-css-dark.png)
+![css preview dark](../soft-eggplant-dark/images/code-css-dark.png)
 
 JS
-![](../images/code-js-dark.png)
+![js preview dark](../soft-eggplant-dark/images/code-js-dark.png)

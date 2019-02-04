@@ -7,10 +7,10 @@ This is the light version of the _Soft Eggplant_ color theme.
 ## Previews
 
 HTML
-![](../images/code-light.png)
+![html preview light](../soft-eggplant-light/images/code-light.png)
 
 CSS
-![](../images/code-css-light.png)
+![css preview light](../soft-eggplant-light/images/code-css-light.png)
 
 JS
-![](../images/code-js-light.png)
+![js preview light](../soft-eggplant-light/images/code-js-light.png)

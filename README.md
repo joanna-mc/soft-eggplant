@@ -9,21 +9,21 @@ The themes aren't currently published, but can be manually installed. Simply clo
 **Dark**
 
 HTML
-![](./images/code-dark.png)
+![html preview dark](./soft-eggplant-dark/images/code-dark.png)
 
 CSS
-![](./images/code-css-dark.png)
+![css preview dark](./soft-eggplant-dark/images/code-css-dark.png)
 
 JS
-![](./images/code-js-dark.png)
+![js preview dark](./soft-eggplant-dark/images/code-js-dark.png)
 
 **Light**
 
 HTML
-![](./images/code-light.png)
+![html preview light](./soft-eggplant-light/images/code-light.png)
 
 CSS
-![](./images/code-css-light.png)
+![css preview light](./soft-eggplant-light/images/code-css-light.png)
 
 JS
-![](./images/code-js-light.png)
+![js preview light](./soft-eggplant-light/images/code-js-light.png)
